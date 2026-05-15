@@ -1,0 +1,96 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# =========================
+# Auto Generated Files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Unity Cache
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+.vscode/
+.idea/
+.gradle/
+
+# Visual Studio Code Settings
+*.code-workspace
+
+# =========================
+# Rider
+# =========================
+.idea/
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Addressables
+# =========================
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# =========================
+# Android
+# =========================
+.gradle/
+*.apk
+*.aab
+
+# =========================
+# iOS
+# =========================
+DerivedData/
+
+# =========================
+# Ignore Large Backup Files
+# =========================
+*.bak
+*.backup
+*.old
+*.log
+
+# =========================
+# Unity Collab
+# =========================
+.collabignore
+
+# =========================
+# JetBrains Rider
+# =========================
+.idea/
+
+# =========================
+# Packages lock (KEEP THIS)
+# =========================
+# DO NOT IGNORE:
+#!Packages/packages-lock.json
